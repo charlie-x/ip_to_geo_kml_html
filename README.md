@@ -1,5 +1,5 @@
 # ip_to_geo_kml_html
-take an ipv4 list from a text file, one per line and output an html using google maps to view it, and a kml
+take an ipv4 list from a text file, one per line and output an html heatmap file using google maps to view it, and a kml for import into google earth
 
 requires GeoLite2-City.mmdb from maxmind, if IP isn't found in mmdb it will try to find it in ipinfo.io
 

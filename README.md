@@ -20,7 +20,9 @@ todo
 add a list of unwanted ip addresses
 
 google earth , import kml as pins
-https://i.imgur.com/TTIPu8T.jpg
 
-html view,w ith heatmaps
-https://i.imgur.com/zT2ySIw.png
+![Google Earth](https://i.imgur.com/TTIPu8T.jpg)
+
+html view,with heatmaps
+
+![Google Maps](https://i.imgur.com/zT2ySIw.png)

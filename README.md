@@ -3,6 +3,8 @@ take an ipv4 list from a text file, one per line and output an html using google
 
 requires GeoLite2-City.mmdb from maxmind, if IP isn't found in mmdb it will try to find it in ipinfo.io
 
+inpinfo might rate limit you if a lot of requests are sent, so try to have a complete mmdb
+
 install
 
 pip install pandas numpy geoip2 simplekml gmplot requests

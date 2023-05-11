@@ -18,3 +18,9 @@ code checks for local ip's and outputs a list that can't be geo-ip'd succesfully
 todo
 
 add a list of unwanted ip addresses
+
+google earth , import kml as pins
+https://i.imgur.com/TTIPu8T.jpg
+
+html view,w ith heatmaps
+https://i.imgur.com/zT2ySIw.png

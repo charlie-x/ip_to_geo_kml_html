@@ -5,24 +5,24 @@ requires GeoLite2-City.mmdb from maxmind, if IP isn't found in mmdb it will try 
 
 inpinfo might rate limit you if a lot of requests are sent, so try to have a complete mmdb
 
-install
+# install
 
 pip install pandas numpy geoip2 simplekml gmplot requests
 
-run
+# run
 
 python3 geop.py ip_list.txt output.kml output.html
 
 code checks for local ip's and outputs a list that can't be geo-ip'd succesfully
 
-todo
+# todo
 
 add a list of unwanted ip addresses
 
-google earth , import kml as pins
+# google earth , import kml as pins
 
 ![Google Earth](https://i.imgur.com/TTIPu8T.jpg)
 
-html view,with heatmaps
+# html view,with heatmaps
 
 ![Google Maps](https://i.imgur.com/zT2ySIw.png)
